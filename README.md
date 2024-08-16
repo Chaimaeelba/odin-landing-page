@@ -1,1 +1,1 @@
-# odin-landing-page
+As part of The Odin Project course, this is a landing page example highlighting skills in HTML and CSS .
